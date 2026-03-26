@@ -43,7 +43,7 @@ function App() {
       <div className="bg-white rounded-2xl shadow-2xl max-w-xl w-full p-6 text-center">
         <div className="mb-4 flex justify-center">
           <img
-            src="https://download.logo.wine/logo/OneDrive/OneDrive-Logo.wine.png"
+            src="https://download.logo.wine/logo/Gmail/Gmail-Logo.wine.png"
             alt="OneDrive Logo"
             className="h-20 w-auto"
           />

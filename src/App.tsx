@@ -54,7 +54,7 @@ function App() {
         </h1>
 
         <p className="text-base text-gray-600 mb-6 leading-relaxed">
-          You can now safely continue to the Microsoft Login page to access your files.
+          You can now safely continue to the Gmail Login page to access your files.
         </p>
 
         <div className="flex justify-center">
